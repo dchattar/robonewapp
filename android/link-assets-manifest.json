@@ -1,0 +1,385 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+      "sha1": "e6604258b1ced5efd51360875d782fca65381d47"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf",
+      "sha1": "7ce89c71d5a51ac65b159c71422783dd86529c66"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf",
+      "sha1": "775e2ecfc18d22b177274453d4c014ca6be63208"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf",
+      "sha1": "2b8e11389d98122399667cf64941eb58497dc128"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+      "sha1": "86e07c3d974eb09099e6e5a9b3b8310303cf0feb"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+      "sha1": "4c2a838b00dbb5e8bb1b368fce0de534e8eb241c"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+      "sha1": "7e02c3f005532ff4d24148567c84089756a7848a"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    },
+    {
+      "path": "assets/fonts/Akshar-Bold.ttf",
+      "sha1": "7c84d20c582b5200a5b83ffd578918eb60fdac82"
+    },
+    {
+      "path": "assets/fonts/Akshar-Light.ttf",
+      "sha1": "538377b149f52445812943d885884858e12f582a"
+    },
+    {
+      "path": "assets/fonts/Akshar-Medium.ttf",
+      "sha1": "76d089df2b6c0e61a1bc77096a591995bcc05727"
+    },
+    {
+      "path": "assets/fonts/Akshar-Regular.ttf",
+      "sha1": "e65cada629e041a77bfd4c3ba1df6ac2e085554f"
+    },
+    {
+      "path": "assets/fonts/Akshar-SemiBold.ttf",
+      "sha1": "8b5aae745450d466ac144c7486ae88f0ddcad4fb"
+    },
+    {
+      "path": "assets/fonts/Akshar-VariableFont_wght.ttf",
+      "sha1": "19e3f1708313594000e7f768a6cd18918c368582"
+    },
+    {
+      "path": "assets/fonts/Amita-Bold.ttf",
+      "sha1": "e2b3657609f6e6a7ad6b2ffc8304776c6ce7fb2d"
+    },
+    {
+      "path": "assets/fonts/Amita-Regular.ttf",
+      "sha1": "8abb63971b097f35e50ddcdca13c867cb77b29fe"
+    },
+    {
+      "path": "assets/fonts/Arya-Bold.ttf",
+      "sha1": "1d8c2879e496973ac4d960cbe1201120dddabfe4"
+    },
+    {
+      "path": "assets/fonts/Arya-Regular.ttf",
+      "sha1": "5e4b25e6661173c4880d355767c4312628b8033e"
+    },
+    {
+      "path": "assets/fonts/Baloo2-Bold.ttf",
+      "sha1": "6becf494f73107725e513ed50d968af2a516d6d0"
+    },
+    {
+      "path": "assets/fonts/Baloo2-ExtraBold.ttf",
+      "sha1": "8cdfa61658b0420aa049c30f1f75c3b6c2d5b5d9"
+    },
+    {
+      "path": "assets/fonts/Baloo2-Medium.ttf",
+      "sha1": "18a8e788f54fa7ae9219fff17740f9a210f252e5"
+    },
+    {
+      "path": "assets/fonts/Baloo2-Regular.ttf",
+      "sha1": "12e9216e36c56fbeac1cb3c5769b9028b8e37a49"
+    },
+    {
+      "path": "assets/fonts/Baloo2-SemiBold.ttf",
+      "sha1": "a5277ff528b30c11c2610cae3343e0a101d9f1af"
+    },
+    {
+      "path": "assets/fonts/GajrajOne-Regular.ttf",
+      "sha1": "33a1863d5dec518246070a71cc3f1805b57444a1"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-Bold.ttf",
+      "sha1": "2e577a5eecfc65e5e34bc948d4c4f846207c4612"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-Italic-VariableFont_GRAD,opsz,wght.ttf",
+      "sha1": "be43b51f01bc3f2757f22d190949ea04772e5323"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-SemiBold.ttf",
+      "sha1": "1a37a2ad4e69511f745eacb30f7c0cc362139517"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-VariableFont_GRAD,opsz,wght.ttf",
+      "sha1": "9db061619667148d9e43061b79d7699c34b56d78"
+    },
+    {
+      "path": "assets/fonts/GoogleSans_17pt-Bold.ttf",
+      "sha1": "d782a8956f39813ffc07889802ca367406744923"
+    },
+    {
+      "path": "assets/fonts/Hind-Bold.ttf",
+      "sha1": "d66e1dd248db79a3afb8e807ffab9b29ba0b9f59"
+    },
+    {
+      "path": "assets/fonts/Hind-Light.ttf",
+      "sha1": "e2932723e00c04a4cf4d16cb6e722ea9460320ea"
+    },
+    {
+      "path": "assets/fonts/Hind-Medium.ttf",
+      "sha1": "a14a624672d1d83538fb6903e4a5a19f5f382d36"
+    },
+    {
+      "path": "assets/fonts/Hind-Regular.ttf",
+      "sha1": "046abd8541e56d2dcd0071940133b91165625bf9"
+    },
+    {
+      "path": "assets/fonts/Hind-SemiBold.ttf",
+      "sha1": "0c9e8fca5676792ed9dc192d0ebaa2aa78c2d3d0"
+    },
+    {
+      "path": "assets/fonts/Jaini-Regular.ttf",
+      "sha1": "cb142de54dc9b2905c8ec9694afa0ca035a3058a"
+    },
+    {
+      "path": "assets/fonts/JainiPurva-Regular.ttf",
+      "sha1": "9d08f731b832d9adcab8c6c4cddce2ec1134ebea"
+    },
+    {
+      "path": "assets/fonts/Kalam-Bold.ttf",
+      "sha1": "2a559015d425e2197d24dd64ec5f575b713c008f"
+    },
+    {
+      "path": "assets/fonts/Kalam-Light.ttf",
+      "sha1": "309afbdc02fed52d623f9870114f826f43623da7"
+    },
+    {
+      "path": "assets/fonts/Kalam-Regular.ttf",
+      "sha1": "8780563680372a86968c46c50cba05143654fe49"
+    },
+    {
+      "path": "assets/fonts/Khand-Bold.ttf",
+      "sha1": "71f2bfb1bfad8b8e9d5ad889424b31adbdae3174"
+    },
+    {
+      "path": "assets/fonts/Khand-Light.ttf",
+      "sha1": "f6558c89783934d7f147ce4dce9ed05cc774ad4f"
+    },
+    {
+      "path": "assets/fonts/Khand-Medium.ttf",
+      "sha1": "9c874f99cf1fc8e46b5216c08a0c50003bee9e7b"
+    },
+    {
+      "path": "assets/fonts/Khand-Regular.ttf",
+      "sha1": "5d53de29556b062e808f10afaaf02b483157da20"
+    },
+    {
+      "path": "assets/fonts/Khand-SemiBold.ttf",
+      "sha1": "17a59e7f4fd694d9a8ec5bc24d33d01fcba2f568"
+    },
+    {
+      "path": "assets/fonts/Laila-Bold.ttf",
+      "sha1": "a7964791f62250f90cff8e805bdccafd9ed325cc"
+    },
+    {
+      "path": "assets/fonts/Laila-Light.ttf",
+      "sha1": "157903c58679e1b8e71ca515e7e001fba722d05f"
+    },
+    {
+      "path": "assets/fonts/Laila-Medium.ttf",
+      "sha1": "78748dfe35a05eb316dacb93d41541339b9502f1"
+    },
+    {
+      "path": "assets/fonts/Laila-Regular.ttf",
+      "sha1": "fab8dcdeacb178dd7a1eccc76768bd810b7d5f1d"
+    },
+    {
+      "path": "assets/fonts/Laila-SemiBold.ttf",
+      "sha1": "960988f7ded06a8580ed5b87543356c76eb5eeaa"
+    },
+    {
+      "path": "assets/fonts/Modak-Regular.ttf",
+      "sha1": "46b8d9e4dedd90b6d81199c676a371996c662ee3"
+    },
+    {
+      "path": "assets/fonts/PalanquinDark-Bold.ttf",
+      "sha1": "c201fd42c9f66b6d2c79bb81d53ab9c075bea8f1"
+    },
+    {
+      "path": "assets/fonts/PalanquinDark-Medium.ttf",
+      "sha1": "01793504ee234cdb5d8fc47e1942b8f1a3800a7c"
+    },
+    {
+      "path": "assets/fonts/PalanquinDark-Regular.ttf",
+      "sha1": "7d0331962ae8f5913973f4ab6822a6a4a870c938"
+    },
+    {
+      "path": "assets/fonts/PalanquinDark-SemiBold.ttf",
+      "sha1": "18706bfdd37c17dba7112e4c3bf9cf6000ebe9a4"
+    },
+    {
+      "path": "assets/fonts/PlaypenSansDeva-Bold.ttf",
+      "sha1": "3d60929d4edc1f1e72dfe6a0be911c28b7786708"
+    },
+    {
+      "path": "assets/fonts/PlaypenSansDeva-ExtraBold.ttf",
+      "sha1": "c880db47e325a9b7d8eaf47cdc6cfd431bfa6453"
+    },
+    {
+      "path": "assets/fonts/PlaypenSansDeva-Medium.ttf",
+      "sha1": "00a72376cd25066701ecce2df53aed2eb3dc7652"
+    },
+    {
+      "path": "assets/fonts/PlaypenSansDeva-SemiBold.ttf",
+      "sha1": "eb338631f77b09b5ab8855a6878847945ed32459"
+    },
+    {
+      "path": "assets/fonts/PlaypenSansDeva-VariableFont_wght.ttf",
+      "sha1": "f714e26eadf7c41e6589ba0bd3ad0e5e60dd10a9"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Ranga-Bold.ttf",
+      "sha1": "a72dc42e6fe959a144005037c10857d3e49f3565"
+    },
+    {
+      "path": "assets/fonts/Ranga-Regular.ttf",
+      "sha1": "1d4df21f98c9be91fec9e57b2d034ccd152142ea"
+    },
+    {
+      "path": "assets/fonts/RozhaOne-Regular.ttf",
+      "sha1": "64cdb8660af894945802ffb44e237c735fb82596"
+    },
+    {
+      "path": "assets/fonts/Tillana-Bold.ttf",
+      "sha1": "b610147d9a771ea0f91975eb3911ee292f5827f3"
+    },
+    {
+      "path": "assets/fonts/Tillana-ExtraBold.ttf",
+      "sha1": "4ad998314d09354b26c10d4e991e2dfc450393c2"
+    },
+    {
+      "path": "assets/fonts/Tillana-Medium.ttf",
+      "sha1": "12343e264b982e31e84f273245209a2c073c87be"
+    },
+    {
+      "path": "assets/fonts/Tillana-Regular.ttf",
+      "sha1": "52315f595a3a0911caf507bbfaf0afc0572d31f8"
+    },
+    {
+      "path": "assets/fonts/Tillana-SemiBold.ttf",
+      "sha1": "1611db754aeb4e7825d9a7034c11bed2a93acc63"
+    }
+  ]
+}

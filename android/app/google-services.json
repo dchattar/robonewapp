@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584107860889",
+    "project_id": "itra-robo",
+    "storage_bucket": "itra-robo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584107860889:android:13a0071c82cffd7b776908",
+        "android_client_info": {
+          "package_name": "org.itraindia.roboapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFSghFrl8Jo_RBun6Fx4uHl_FEoIsn6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584107860889:android:259442e8f84b06c8776908",
+        "android_client_info": {
+          "package_name": "org.itraindia.roboapp.roboapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFSghFrl8Jo_RBun6Fx4uHl_FEoIsn6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
