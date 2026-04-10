@@ -93,11 +93,6 @@ export default function HomeScreen() {
           }
           style={styles.eventCard}>
           <View style={{ width: 120, height: 120 }}>
-            {/* 
-            <View style={{ height: 20, paddingHorizontal: 6, position: 'absolute', backgroundColor: item.bg, borderRadius: 5, top: 5, right: 5, zIndex: 99999 }}>
-              <Text style={{ fontSize: 14, color: 'white', fontWeight: '700' }}>{item.lang}</Text>
-            </View>
-            */}
             <Image
               source={{ uri: imageUrl + item.thumbnail + '?v=1' }}
               style={styles.eventImage}
@@ -130,11 +125,6 @@ export default function HomeScreen() {
           }
           style={styles.eventCard}>
           <View style={{ width: 120, height: 120 }}>
-            {/* 
-            <View style={{ height: 20, paddingHorizontal: 6, position: 'absolute', backgroundColor: item.bg, borderRadius: 5, top: 5, right: 5, zIndex: 99999 }}>
-              <Text style={{ fontSize: 14, color: 'white', fontWeight: '700' }}>{item.lang}</Text>
-            </View>
-            */}
             <Image
               source={{ uri: imageUrl + item.thumbnail + '?v=1' }}
               style={styles.eventImage}
@@ -167,11 +157,6 @@ export default function HomeScreen() {
           }
           style={styles.eventCard}>
           <View style={{ width: 120, height: 120 }}>
-            {/* 
-            <View style={{ height: 20, paddingHorizontal: 6, position: 'absolute', backgroundColor: item.bg, borderRadius: 5, top: 5, right: 5, zIndex: 99999 }}>
-              <Text style={{ fontSize: 14, color: 'white', fontWeight: '700' }}>{item.lang}</Text>
-            </View>
-            */}
             <Image
               source={{ uri: imageUrl + item.thumbnail + '?v=1' }}
               style={styles.eventImage}
@@ -224,35 +209,27 @@ export default function HomeScreen() {
       <Carousel
         width={windowWidth - 20}
         height={180}
-        style={{marginLeft:10}}
+        style={{ marginLeft: 10 }}
         data={banners}
         autoPlay={true}
         loop
         onProgressChange={progress}
-        scrollAnimationDuration={3000}
-        renderItem={({ item, index, animationValue }: { item: any, index: any, animationValue: any }) => (
-          <CarouselItem key={index} item={item} animatedValue={animationValue} />
+        scrollAnimationDuration={1000}
+        renderItem={({ item, animationValue }) => (
+          <CarouselItem item={item} animatedValue={animationValue} />
         )}
       />
-      <Pagination.Basic<{ color: string }>
-        progress={progress}
-        data={banners.map((color: any) => ({ color }))}
-        dotStyle={{
-          width: 10,
-          height: 4,
-          backgroundColor: "#ffffff",
-        }}
-        activeDotStyle={{
-          overflow: "hidden",
-          backgroundColor: activeColor,
-        }}
-        containerStyle={{
-          gap: 10,
-          marginBottom: 10,
-        }}
-        horizontal
-        onPress={onPressPagination}
-      />
+      <View style={styles.paginationContainer}>
+        <Pagination.Basic
+          progress={progress}
+          data={banners}
+          dotStyle={styles.dot}
+          activeDotStyle={styles.activeDot}
+          containerStyle={styles.paginationBasic}
+          horizontal
+          onPress={onPressPagination}
+        />
+      </View>
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>Today’s Highlights</Text>
         {renderEventList(todayEvents)}
@@ -317,6 +294,7 @@ const getStyles = (isDark: boolean) =>
       flex: 1,
       justifyContent: "center",
       alignItems: "center",
+      backgroundColor: bgColor,
     },
     section: {
       paddingLeft: 8,
@@ -328,40 +306,25 @@ const getStyles = (isDark: boolean) =>
       marginBottom: 4,
       color: activeColor,
     },
-    adContainer: {
-      marginVertical: 5,
-      borderTopWidth: 1,
-      borderBottomWidth: 1,
-      borderColor: "#eee",
-      alignItems: "center",
-      paddingVertical: 6,
+    paginationContainer: {
+      alignItems: 'center',
+      marginTop: 5,
+      marginBottom: 10,
     },
-    editTool: {
-      padding: 12,
-      borderRadius: 10,
-      justifyContent: "center",
-      alignItems: "center",
+    paginationBasic: {
+      gap: 10,
     },
-    gridImage: { width: 28, height: 28 },
-    toolText: {
-      fontSize: 13,
-      marginTop: 6,
-      fontWeight: "600",
-      textAlign: "center",
-      color: "#222",
+    dot: {
+      width: 10,
+      height: 4,
+      borderRadius: 4,
+      backgroundColor: 'rgba(255,255,255,0.4)',
     },
-    businessCard: {
-      flexDirection: "row",
-      paddingVertical: 14,
-      borderRadius: 5,
-      justifyContent: "center",
-      alignItems: "center",
-    },
-    businessText: {
-      fontSize: 15,
-      fontWeight: "600",
-      color: "#fff",
-      marginLeft: 4,
+    activeDot: {
+      width: 20,
+      height: 4,
+      borderRadius: 4,
+      backgroundColor: activeColor,
     },
     eventCard: {
       marginRight: 12,
@@ -400,4 +363,4 @@ const getStyles = (isDark: boolean) =>
       fontWeight: "600",
       color: "#333",
     },
-  });
+  });
