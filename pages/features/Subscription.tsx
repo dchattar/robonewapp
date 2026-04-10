@@ -91,8 +91,8 @@ export default function SubscriptionScreen() {
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({
                         token: userInfo.token,
-                        planId:item.planId,
-                        amount:amountFinal,
+                        planId: item.planId,
+                        amount: amountFinal,
                         paymentId: data.razorpay_payment_id
                     }),
                 });
@@ -132,18 +132,15 @@ export default function SubscriptionScreen() {
     return (
         <View style={styles.container}>
             <Carousel
-                width={width}   // 🔥 full width नको, कमी ठेव
-                height={width * 1.7}
+                width={width}
+                height={width * 1.8}
                 data={plansList}
                 loop
-                autoPlay
-                autoPlayInterval={3000}
-
                 mode="parallax"
                 modeConfig={{
-                    parallaxScrollingScale: 0.9,
+                    parallaxScrollingScale: 0.8,
                     parallaxAdjacentItemScale: 0.8,
-                    parallaxScrollingOffset: 90 // 🔥 gap = peek visible
+                    parallaxScrollingOffset: 80 // 🔥 gap = peek visible
                 }}
 
                 style={{
