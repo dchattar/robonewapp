@@ -34,7 +34,10 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string/>
+	<string></string>
+	<key>RCTNewArchEnabled</key>
+	<true/>
+	
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -54,103 +57,5 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>UIAppFonts</key>
-	<array>
-		<string>AntDesign.ttf</string>
-		<string>Entypo.ttf</string>
-		<string>EvilIcons.ttf</string>
-		<string>Feather.ttf</string>
-		<string>FontAwesome.ttf</string>
-		<string>FontAwesome5_Brands.ttf</string>
-		<string>FontAwesome5_Regular.ttf</string>
-		<string>FontAwesome5_Solid.ttf</string>
-		<string>FontAwesome6_Brands.ttf</string>
-		<string>FontAwesome6_Regular.ttf</string>
-		<string>FontAwesome6_Solid.ttf</string>
-		<string>Fontisto.ttf</string>
-		<string>Foundation.ttf</string>
-		<string>Ionicons.ttf</string>
-		<string>MaterialCommunityIcons.ttf</string>
-		<string>MaterialIcons.ttf</string>
-		<string>Octicons.ttf</string>
-		<string>SimpleLineIcons.ttf</string>
-		<string>Zocial.ttf</string>
-		<string>Akshar-Bold.ttf</string>
-		<string>Akshar-Light.ttf</string>
-		<string>Akshar-Medium.ttf</string>
-		<string>Akshar-Regular.ttf</string>
-		<string>Akshar-SemiBold.ttf</string>
-		<string>Akshar-VariableFont_wght.ttf</string>
-		<string>Amita-Bold.ttf</string>
-		<string>Amita-Regular.ttf</string>
-		<string>Arya-Bold.ttf</string>
-		<string>Arya-Regular.ttf</string>
-		<string>Baloo2-Bold.ttf</string>
-		<string>Baloo2-ExtraBold.ttf</string>
-		<string>Baloo2-Medium.ttf</string>
-		<string>Baloo2-Regular.ttf</string>
-		<string>Baloo2-SemiBold.ttf</string>
-		<string>GajrajOne-Regular.ttf</string>
-		<string>GoogleSans-Bold.ttf</string>
-		<string>GoogleSans-Italic-VariableFont_GRAD,opsz,wght.ttf</string>
-		<string>GoogleSans-SemiBold.ttf</string>
-		<string>GoogleSans-VariableFont_GRAD,opsz,wght.ttf</string>
-		<string>GoogleSans_17pt-Bold.ttf</string>
-		<string>Hind-Bold.ttf</string>
-		<string>Hind-Light.ttf</string>
-		<string>Hind-Medium.ttf</string>
-		<string>Hind-Regular.ttf</string>
-		<string>Hind-SemiBold.ttf</string>
-		<string>Jaini-Regular.ttf</string>
-		<string>JainiPurva-Regular.ttf</string>
-		<string>Kalam-Bold.ttf</string>
-		<string>Kalam-Light.ttf</string>
-		<string>Kalam-Regular.ttf</string>
-		<string>Khand-Bold.ttf</string>
-		<string>Khand-Light.ttf</string>
-		<string>Khand-Medium.ttf</string>
-		<string>Khand-Regular.ttf</string>
-		<string>Khand-SemiBold.ttf</string>
-		<string>Laila-Bold.ttf</string>
-		<string>Laila-Light.ttf</string>
-		<string>Laila-Medium.ttf</string>
-		<string>Laila-Regular.ttf</string>
-		<string>Laila-SemiBold.ttf</string>
-		<string>Modak-Regular.ttf</string>
-		<string>PalanquinDark-Bold.ttf</string>
-		<string>PalanquinDark-Medium.ttf</string>
-		<string>PalanquinDark-Regular.ttf</string>
-		<string>PalanquinDark-SemiBold.ttf</string>
-		<string>PlaypenSansDeva-Bold.ttf</string>
-		<string>PlaypenSansDeva-ExtraBold.ttf</string>
-		<string>PlaypenSansDeva-Medium.ttf</string>
-		<string>PlaypenSansDeva-SemiBold.ttf</string>
-		<string>PlaypenSansDeva-VariableFont_wght.ttf</string>
-		<string>Poppins-Black.ttf</string>
-		<string>Poppins-BlackItalic.ttf</string>
-		<string>Poppins-Bold.ttf</string>
-		<string>Poppins-BoldItalic.ttf</string>
-		<string>Poppins-ExtraBold.ttf</string>
-		<string>Poppins-ExtraBoldItalic.ttf</string>
-		<string>Poppins-ExtraLight.ttf</string>
-		<string>Poppins-ExtraLightItalic.ttf</string>
-		<string>Poppins-Italic.ttf</string>
-		<string>Poppins-Light.ttf</string>
-		<string>Poppins-LightItalic.ttf</string>
-		<string>Poppins-Medium.ttf</string>
-		<string>Poppins-MediumItalic.ttf</string>
-		<string>Poppins-Regular.ttf</string>
-		<string>Poppins-SemiBold.ttf</string>
-		<string>Poppins-SemiBoldItalic.ttf</string>
-		<string>Poppins-Thin.ttf</string>
-		<string>Ranga-Bold.ttf</string>
-		<string>Ranga-Regular.ttf</string>
-		<string>RozhaOne-Regular.ttf</string>
-		<string>Tillana-Bold.ttf</string>
-		<string>Tillana-ExtraBold.ttf</string>
-		<string>Tillana-Medium.ttf</string>
-		<string>Tillana-Regular.ttf</string>
-		<string>Tillana-SemiBold.ttf</string>
-	</array>
 </dict>
 </plist>
